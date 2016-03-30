@@ -1,0 +1,28 @@
+name: Passion In Action International
+favicon: null
+layout_spectrum: 0.9174277959391475
+typography_spectrum: 0.34613672946579754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.982992178061977
+  lightness: 0.3409227388910949
+  saturation: 0.9113756015431136
+  rhythmicContrast: 0.9451414316426963
+purpose: []
